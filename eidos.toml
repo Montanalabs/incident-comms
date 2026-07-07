@@ -1,0 +1,7 @@
+name = "incident-comms"
+version = "0.1.0"
+description = "Incident-comms gate"
+author = "Montana Labs <info@montanalabs.ai>"
+license = "Apache-2.0"
+
+[dependencies]
